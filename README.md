@@ -1,1 +1,0 @@
-# Two-Way-Sign-Language-Converter
